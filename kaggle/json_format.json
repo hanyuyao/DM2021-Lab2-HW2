@@ -1,0 +1,28 @@
+{
+    "_score": 781,
+    "_index": "hashtag_tweets",
+    "_source": {
+        "tweet": {
+            "hashtags": [
+                "CBJ"
+            ],
+            "tweet_id": "0x1de40a",
+            "text": "This is the final meeting of #CBJ and Carolina this season. <LH>"
+        }
+    },
+    "_crawldate": "2017-11-21 21:46:33",
+    "_type": "tweets"
+}
+{
+    "_score": 775,
+    "_index": "hashtag_tweets",
+    "_source": {
+        "tweet": {
+            "hashtags": [],
+            "tweet_id": "0x214e2c",
+            "text": "Dinner and a movie night with brooke and her parents <LH> \ud83d\ude4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd"
+        }
+    },
+    "_crawldate": "2017-01-28 18:13:52",
+    "_type": "tweets"
+}
